@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+data/
+.streamlit/
+.pytest_cache/
+*.db
+*.db-journal
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated release artifacts — built on-demand by scripts/build_release_zip.py
+FinanceOS-*.zip
